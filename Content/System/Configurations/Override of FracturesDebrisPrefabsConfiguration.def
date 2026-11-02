@@ -1,0 +1,11 @@
+{
+  "$Bundles": {
+    "Game2": "4.0.0.3165",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "4.0.0.3165"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.FloatingObjects.FractureDebrisPrefabsConfigurationObjectBuilder",
+  "$Value": {
+    "MaxActiveDebris": 100
+  }
+}

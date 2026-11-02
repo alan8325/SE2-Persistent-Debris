@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "Game2": "4.0.0.3165",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "4.0.0.3165"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "5e81b064-2aab-45f2-a3bf-e05db6b7418e",
+    "PartialDefinitionKind": "Override",
+    "Manipulator": {
+      "ConflictingTicksToDestroy": 2147483647
+    },
+    "DefinitionType": "VRage:Keen.VRage.Game.Components.Fractures.DebrisDefinition",
+    "PriorityOverride": false
+  }
+}

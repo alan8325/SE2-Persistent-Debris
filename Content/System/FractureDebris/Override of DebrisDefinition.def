@@ -1,0 +1,11 @@
+{
+  "$Bundles": {
+    "Game2": "4.0.0.3165",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "4.0.0.3165"
+  },
+  "$Type": "VRage:Keen.VRage.Game.Components.Fractures.DebrisDefinitionObjectBuilder",
+  "$Value": {
+    "ConflictingTicksToDestroy": 2147483647
+  }
+}

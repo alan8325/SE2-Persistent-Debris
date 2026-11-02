@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "Game2": "4.0.0.3165",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "4.0.0.3165"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "70563a82-6a30-4a58-af86-6b79f2ec8777",
+    "PartialDefinitionKind": "Override",
+    "Manipulator": {
+      "MaxActiveDebris": 100
+    },
+    "DefinitionType": "Game2:Keen.Game2.Simulation.WorldObjects.FloatingObjects.FractureDebrisPrefabsConfiguration",
+    "PriorityOverride": false
+  }
+}

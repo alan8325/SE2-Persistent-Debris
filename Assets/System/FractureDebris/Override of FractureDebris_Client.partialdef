@@ -1,0 +1,46 @@
+{
+  "$Bundles": {
+    "Game2": "4.0.0.3165",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "4.0.0.3165"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "3cc73a40-9e48-43a9-885f-1c28bd5b824a",
+    "PartialDefinitionKind": "Override",
+    "Manipulator": {
+      "_entity": {
+        "ObjectBuilders": {
+          "$DeltaEncoded": true,
+          "Keys": [
+            "0c0dfd1d-9b4d-2a33-504c-3a8c161f534b",
+            "e4e7dcfe-e9f9-ef89-2ec2-c2b9aed38d39",
+            "ac87b401-b4c4-7bf0-55e7-3be0d2003051",
+            "13ed618a-e805-a360-5955-ff25f5c8c876",
+            "1404489d-a186-25a7-d06c-c832faff3b85",
+            "3a8db410-6f38-b452-be14-e6c3deee77fd",
+            "46308edf-8e78-4ac1-eb6b-8e11aea91c2d",
+            "faa87192-5345-9201-62d3-edb0ce2c9c67",
+            "8c028b9c-0c09-4b49-93d2-e097149f420d",
+            "09a00efb-c874-42b1-954f-89482fd86f14",
+            "ed69177d-4f4a-4667-8f34-d51951ce6d8d"
+          ],
+          "Changed": [
+            {
+              "Kind": "Update",
+              "Index": 7,
+              "Value": {
+                "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.Shared.TimeoutComponentObjectBuilder",
+                "TimeToClose": 79999998,
+                "TimeoutPaused": true
+              }
+            }
+          ],
+          "Removed": []
+        }
+      }
+    },
+    "DefinitionType": "VRage:Keen.VRage.Core.Game.Definitions.PrefabDefinition",
+    "PriorityOverride": false
+  }
+}

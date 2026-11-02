@@ -1,0 +1,41 @@
+{
+  "$Bundles": {
+    "Game2": "4.0.0.3165",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "4.0.0.3165"
+  },
+  "$Type": "VRage:Keen.VRage.DCS.Definitions.EntityCompositeDefinitionObjectBuilder",
+  "$Value": {
+    "TagSlots": {
+      "$DeltaEncoded": true,
+      "RemovedKeys": [
+        "CameraDebrisCleanerComponent"
+      ],
+      "ModifiedKeys": []
+    },
+    "Components": {
+      "$DeltaEncoded": true,
+      "Keys": [
+        "6c672c23-eda7-d6e6-225a-c69b7c4fc482",
+        "88bcabbe-6043-29c7-2cdc-8c74a47b0d0d",
+        "158824b1-9a61-bbcc-e12c-fed0776feb9e",
+        "9575c358-7a87-40ac-a71b-a2873823d7dc",
+        "0f842ed6-9e3c-4155-abdc-2ee416cc8bce",
+        "975b8f8d-1260-4a1f-9ffd-f3e7dd7a5e8d",
+        "446be2e7-ef02-45e3-bc3b-2dc614412fdf",
+        "ee55a47a-6429-4c92-9a4d-36ea8934d131",
+        "97f06458-37ce-42c6-a1fb-8baab7b97ab8",
+        "a91b5006-6e69-4aa9-8540-fdcb62bb617c",
+        "d74bd04e-732c-4934-bb9a-284d8e97ffaf",
+        "1f128d60-7044-4e3b-b131-4f12af06f94d",
+        "12f50fef-b0c2-4cc2-8eda-c6fe05c1ddae",
+        "a5e810ec-9497-44bf-8297-73ab218cdf22",
+        "cd14d165-be9e-4613-bb8c-edc229aebf20"
+      ],
+      "Changed": [],
+      "Removed": [
+        "377f46ac-d20a-4525-a2ec-f8121f8c0f54"
+      ]
+    }
+  }
+}

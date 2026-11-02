@@ -1,0 +1,26 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "4.0.0.3165"
+  },
+  "$Type": "VRage:Keen.VRage.ModHUB.Models.ModProject",
+  "$Value": {
+    "Id": {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "ServiceName": ""
+    },
+    "ProjectID": {
+      "Guid": "00000000-0000-0000-0000-000000000000",
+      "ModId": null,
+      "ServiceId": null
+    },
+    "Version": "0.0",
+    "BaseMetadata": null,
+    "Name": "Persistent Debris",
+    "Summary": "Mod description\r\n",
+    "Tags": [
+      "UGCModTypeTag"
+    ],
+    "ProjectFile": "Persistent Debris.vrgproj"
+  }
+}
