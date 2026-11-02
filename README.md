@@ -1,0 +1,1 @@
+Keeps destroyed ship-block debris physically active until 100 pieces exist, then removes the oldest as new debris spawns. Preserves collisions and prevents debris from disappearing when touched by the camera.
