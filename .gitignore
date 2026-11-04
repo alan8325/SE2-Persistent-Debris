@@ -6,7 +6,3 @@
 .referencescache
 .startupblobscache
 *.vrb
-
-# Python test caches
-__pycache__/
-*.py[cod]

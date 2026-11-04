@@ -6,7 +6,7 @@
   "$Type": "VRage:Keen.VRage.Core.Project.VRageProjectData",
   "$Value": {
     "Name": "Persistent Debris",
-    "Version": null,
+    "Version": "1.0.0.0",
     "Type": "Mod",
     "ProjectID": {
       "Guid": "9affe8a2-b854-434d-af0d-5e567b5801ff",
@@ -28,7 +28,11 @@
     ],
     "GameExecutable": "SpaceEngineers2.exe",
     "GameExecutableSearchPaths": [],
-    "ReferencedAssemblies": [],
+    "ReferencedAssemblies": [
+      "Game2.Client.dll",
+      "Game2.Game.dll",
+      "Game2.Simulation.dll"
+    ],
     "ReferencedAssembliesSearchPaths": [],
     "EditorExtensionAssemblies": [],
     "EditorExtensionAssembliesSearchPaths": [],

@@ -18,7 +18,7 @@
       },
       {
         "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
-        "FileHash": "AKEcfcPfxLvRapYizAgqBA=="
+        "FileHash": "YH8Viw+l0P7qNTpcZKvtlQ=="
       },
       {
         "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
@@ -28,14 +28,14 @@
         },
         "ContentFiles": {
           "MainOutput": {
-            "FileHash": "Jx9UhOTqJ+1dnCPk8XFJYQ==",
+            "FileHash": "RdxnYV4V1i8CkaSNB4W6zg==",
             "FileName": "Override of PrefabRenderCamera.def"
           },
           "AdditionalOutputs": []
         },
         "Problems": [],
         "DependenciesHashes": [],
-        "AssetHash": "AKEcfcPfxLvRapYizAgqBA==",
+        "AssetHash": "YH8Viw+l0P7qNTpcZKvtlQ==",
         "OverrideDetachedState": false,
         "IgnoredErrors": "None"
       }

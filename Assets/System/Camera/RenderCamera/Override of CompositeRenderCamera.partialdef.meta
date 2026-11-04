@@ -18,7 +18,7 @@
       },
       {
         "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
-        "FileHash": "NyZDr6zaI8DarueisWcGnA=="
+        "FileHash": "mslO4aFi99swg51+X4ysNw=="
       },
       {
         "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
@@ -35,7 +35,7 @@
         },
         "Problems": [],
         "DependenciesHashes": [],
-        "AssetHash": "NyZDr6zaI8DarueisWcGnA==",
+        "AssetHash": "mslO4aFi99swg51+X4ysNw==",
         "OverrideDetachedState": false,
         "IgnoredErrors": "None"
       }
